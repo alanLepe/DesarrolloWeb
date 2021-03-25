@@ -1,0 +1,29 @@
+body{
+    background-color:black;
+    color:white;
+    font-family: sans-serif;
+    
+}
+#menu{float: left;
+        width: 20%;}
+#seccion1{
+    width:80% ;
+    background-color: turquoise;
+    float:right;
+}
+#seccion2{
+    width:80% ;
+    background-color:yellow;
+    float:right;
+   
+}
+#seccion3{
+    width:80% ;
+    background-color:orange;
+    float:right;
+}
+#seccion4{
+    width:80% ;
+    background-color:red;
+    float:right;
+}

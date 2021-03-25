@@ -2,21 +2,40 @@
 body{
     background-color:rgb(19, 18, 18);
     color: white;
-    font-family: 'sans serif';
 }
 
 
 #seccion1{
+
+    text-align: center;
+    width: 80%;
+    font-size: 15px;
     background-color: turquoise;
-    color: black ;
+    float:right;
+    padding-right: 20px;
 }
+
+
 #seccion2{
+    text-align: center;
+    width: 80%;
     background-color: yellow;
-    color:black
+    float: right;
+    padding-right: 20px;
+
 }
 #seccion3{
+    text-align: center;
+    width: 80%;
     background-color: orange;
+    float: right;
+    padding-right: 20px;
 }
 #seccion4{
+    text-align: center;
+    width: 80%;
     background-color: red;
+    float: right;
+    padding-right: 20px;
 }
+

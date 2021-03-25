@@ -2,40 +2,42 @@
 body{
     background-color:rgb(19, 18, 18);
     color: white;
+    font-family: sans-serif;
 }
 
+.derecha {
+    display: block;
+    float: left;
+    width: 45%;
+}
 
-#seccion1{
+.izquierda {
+    display: block;
+    float: left;
+    width: 15%;
+}
 
-    text-align: center;
-    width: 80%;
+.seccion{
+    width: 100%;
     font-size: 15px;
-    background-color: turquoise;
     float:right;
-    padding-right: 20px;
+    padding: 20px;
+    padding-bottom: 11.5%;
 }
 
+.fondo-turquesa{
+    background-color: turquoise;
+}
 
-#seccion2{
-    text-align: center;
-    width: 80%;
+.fondo-amarillo{
     background-color: yellow;
-    float: right;
-    padding-right: 20px;
-
+    
 }
-#seccion3{
-    text-align: center;
-    width: 80%;
+
+.fondo-naranjo{
     background-color: orange;
-    float: right;
-    padding-right: 20px;
-}
-#seccion4{
-    text-align: center;
-    width: 80%;
-    background-color: red;
-    float: right;
-    padding-right: 20px;
 }
 
+.fondo-rojo{
+    background-color: red;
+}

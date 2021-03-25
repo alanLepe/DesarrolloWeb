@@ -1,0 +1,22 @@
+
+body{
+    background-color:rgb(19, 18, 18);
+    color: white;
+    font-family: 'sans serif';
+}
+
+
+#seccion1{
+    background-color: turquoise;
+    color: black ;
+}
+#seccion2{
+    background-color: yellow;
+    color:black
+}
+#seccion3{
+    background-color: orange;
+}
+#seccion4{
+    background-color: red;
+}

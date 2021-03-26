@@ -11,10 +11,17 @@ body{
     width: 45%;
 }
 
+
 .izquierda {
     display: block;
     float: left;
     width: 15%;
+    transition: background-color .5s;
+
+}
+
+.izquierda:hover {
+    background-color:rgb(7, 6, 6);
 }
 
 .seccion{

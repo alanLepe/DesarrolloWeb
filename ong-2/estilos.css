@@ -1,0 +1,51 @@
+body{
+    background-color:black;
+    color:white;
+    font-family: sans-serif;
+    
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(75, 72, 75);
+}
+#menu{float: left;
+    
+        width: 20%;}
+#seccion1{
+    width:80% ;
+    height:25% ;
+    min-height:200px;
+    background-color: turquoise;
+    float:right;
+    
+    
+}
+#seccion2{
+    width:80% ;
+    height:25% ;
+    background-color:yellow;
+    min-height:200px;
+    float:right;
+   
+}
+#seccion3{
+    width:80% ;
+    height:25% ;
+    background-color:orange;
+    min-height:200px;
+    float:right;
+}
+#seccion4{
+    width:80% ;
+    height:25% ;
+    background-color:red;
+    min-height:200px;
+    float:right;
+}
+nav ul li{
+    list-style: none;
+    
+}
